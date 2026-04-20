@@ -18,8 +18,5 @@ This enables controlled shifts in the Higgs vacuum expectation value and thus pa
 ## Goal
 To explore whether such a system can be internally consistent under known physics, not immediate feasibility.
 
-## Full Paper
-[upload your PDF and link it here]
-
 ## Status
 Open for critique.
